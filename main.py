@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pickle  # モデルをロードするため
 from sklearn.feature_extraction.text import CountVectorizer
 import matplotlib.lines as mlines
-import streamlit.web.cli as stcli
+
 
 
 # Define the category mapping (fallback for unknown categories)
